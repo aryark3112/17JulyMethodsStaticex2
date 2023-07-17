@@ -1,0 +1,8 @@
+D:\17JulyMethods\17JulyMethods\bin\Debug\17JulyMethods.exe.config
+D:\17JulyMethods\17JulyMethods\bin\Debug\17JulyMethods.exe
+D:\17JulyMethods\17JulyMethods\bin\Debug\17JulyMethods.pdb
+D:\17JulyMethods\17JulyMethods\obj\Debug\17JulyMethods.csproj.AssemblyReference.cache
+D:\17JulyMethods\17JulyMethods\obj\Debug\17JulyMethods.csproj.SuggestedBindingRedirects.cache
+D:\17JulyMethods\17JulyMethods\obj\Debug\17JulyMethods.csproj.CoreCompileInputs.cache
+D:\17JulyMethods\17JulyMethods\obj\Debug\17JulyMethods.exe
+D:\17JulyMethods\17JulyMethods\obj\Debug\17JulyMethods.pdb
